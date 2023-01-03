@@ -26,5 +26,8 @@
 5. Under "Branch name pattern", type the branch name or pattern you want to protect.
 6. Under "Protect matching branches", select Require a pull request before merging.
 7. Require approvals before a pull request can be merged - select Require approvals, click the Required number of approvals before merging drop-down menu, then select the number of approving reviews you would like to require on the branch.
-8. Examine and discuss the additional option you can enforce on the branches.
+8. Examine and discuss the additional options you can enforce on the branches.
 
+
+## Create your CI/CD workflows
+  1. 
